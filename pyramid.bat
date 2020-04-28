@@ -1,3 +1,6 @@
+:: Programmed by hXR16F
+:: hXR16F.ar@gmail.com, https://github.com/hXR16F
+
 @echo off
 setlocal EnableDelayedExpansion
 set /p "layers=How many layers? "
